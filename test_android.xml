@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <manifest>
-	<remote fetch="http://192.168.40.20/#/admin/projects/" name="origin">
+
+	<remote 
+		fetch="http://192.168.40.20/#/admin/projects/" 
+		name="origin"/>
 	
-	<default remote="origin" revision="develop"/>
+	<default r
+		emote="origin" 
+		revision="develop"/>
 
 	<project 
 		path="Componentaddressselect" 
