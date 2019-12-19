@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<manifest>
+
+	<remote 
+		fetch="ssh://192.168.40.20:29418/" 
+		name="origin"/>
+
+	<default
+		remote="origin" 
+		revision="develop"/>
+
+	<project 
+		path="Componentaddressselect" 
+		name="t3-app-frontend/android-passenger/Componentaddressselect" 
+		revision="develop"/>
+
+	<project 
+		path="Componentapp" 
+		name="t3-app-frontend/android-passenger/Componentapp" 
+		revision="develop"/>
+
+	<project 
+		path="Componentbaselib" 
+		name="t3-app-frontend/android-passenger/Componentbaselib" 
+		revision="develop"/>
+
+	<project 
+		path="Componentbusiness" 
+		name="t3-app-frontend/android-passenger/Componentbusiness" 
+		revision="develop"/>
+
+	<project 
+		path="Componentchatlib" 
+		name="t3-app-frontend/android-passenger/Componentchatlib" 
+		revision="develop"/>
+
+	<project 
+		path="Componentexpress" 
+		name="t3-app-frontend/android-passenger/Componentexpress" 
+		revision="develop"/>
+
+	<project 
+		path="Componenthome" 
+		name="t3-app-frontend/android-passenger/Componenthome" 
+		revision="develop"/>
+
+	<project 
+		path="Componentlogin" 
+		name="t3-app-frontend/android-passenger/Componentlogin" 
+		revision="develop"/>
+
+	<project 
+		path="Componentmaplib" 
+		name="t3-app-frontend/android-passenger/Componentmaplib" 
+		revision="develop"/>
+
+	<project 
+		path="Compinentservicelib" 
+		name="t3-app-frontend/android-passenger/Compinentservicelib" 
+		revision="develop"/>
+
+	<project 
+		path="Componentusercenter" 
+		name="t3-app-frontend/android-passenger/Componentusercenter" 
+		revision="develop"/>
+
+	<project 
+		path="Componentweblib" 
+		name="t3-app-frontend/android-passenger/Componentweblib" 
+		revision="develop"/>
+
+	<project 
+		path="T3EnterpriseCar" 
+		name="t3-app-frontend/app-enterprise-andriod/T3EnterpriseCar" 
+		revision="develop"/>
+	
+</manifest>
