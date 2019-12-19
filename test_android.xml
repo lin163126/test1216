@@ -5,9 +5,9 @@
 	<remote 
 		fetch="http://192.168.40.20/#/admin/projects/" 
 		name="origin"/>
-	
-	<default r
-		emote="origin" 
+
+	<default
+		remote="origin" 
 		revision="develop"/>
 
 	<project 
