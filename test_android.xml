@@ -72,7 +72,7 @@
 
 	<project 
 		path="T3EnterpriseCar" 
-		name="t3-app-frontend/android-passenger/T3EnterpriseCar" 
+		name="t3-app-frontend/app-enterprise-andriod/T3EnterpriseCar" 
 		revision="develop"/>
 	
 </manifest>
