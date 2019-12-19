@@ -3,7 +3,7 @@
 <manifest>
 
 	<remote 
-		fetch="git@github.com:lin163126/" 
+		fetch="git@github.com:lin163126" 
 		name="origin"/>
 
 	<default
