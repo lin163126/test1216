@@ -3,21 +3,23 @@
 <manifest>
 
 	<remote 
-		fetch="git@github.com:lin163126" 
-		name="origin"/>
+		name="github"
+		fetch="https://github.com/lin163126"/>
 
 	<default
-		remote="origin" 
+		remote="github" 
 		revision="master"/>
 
 	<project 
-		path="GitApp" 
+		path="lin163126/GitApp" 
 		name="GitApp.git" 
+		remote="github"
 		revision="master"/>
 
 	<project 
-		path="Android-PickerView" 
+		path="lin163126/Android-PickerView" 
 		name="Android-PickerView.git" 
+		remote="github"
 		revision="master"/>
-	
+
 </manifest>
